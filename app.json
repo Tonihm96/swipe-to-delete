@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "swipe-to-delete",
+    "slug": "swipe-to-delete",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
