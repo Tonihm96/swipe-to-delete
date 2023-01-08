@@ -5,8 +5,7 @@ import {
   Platform,
   StatusBar,
   ListRenderItemInfo,
-  FlatList,
-  ViewToken
+  FlatList
 } from 'react-native';
 import { gestureHandlerRootHOC } from 'react-native-gesture-handler';
 

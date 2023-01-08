@@ -1,12 +1,5 @@
-import React, { useEffect } from 'react';
-import {
-  View,
-  Text,
-  StyleSheet,
-  Image,
-  Dimensions,
-  ViewToken
-} from 'react-native';
+import React from 'react';
+import { View, Text, StyleSheet, Image, Dimensions } from 'react-native';
 import { PanGestureHandler } from 'react-native-gesture-handler';
 import Animated, {
   interpolate,
